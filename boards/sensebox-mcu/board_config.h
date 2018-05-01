@@ -3,7 +3,7 @@
 
 #define __SAMD21G18A__ 1
 
-#define VENDOR_NAME "eduSense"
+#define VENDOR_NAME "senseBox"
 #define PRODUCT_NAME "senseBox MCU"
 #define VOLUME_LABEL "SENSEBOX"
 #define INDEX_URL "http://www.sensebox.de"
