@@ -90,6 +90,8 @@
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'circuitplay' ">
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'co2ampel' ">
+  </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'dadamachines-automat' ">
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'eitech-robotics' ">

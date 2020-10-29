@@ -61,6 +61,7 @@
   </project>
   <configuration Name="generic"/>
   <configuration Name="circuitplay"/>
+  <configuration Name="co2ampel"/>
   <configuration Name="dadamachines-automat"/>
   <configuration Name="eitech-robotics"/>
   <configuration Name="feather"/>
